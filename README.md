@@ -7,5 +7,7 @@ This project is a GUI based python to-do list with options to add and delete ite
 
 
 # The Interface:
-<p align="center"> <img width="200" src="" alt=""></p>
 With the help of this tool you can add, delete and check list of item added to do list✔📝
+
+![interface](https://github.com/Megha296/To_do_List/assets/98030471/45f75050-9ae6-4099-84a9-677dae619315)
+
